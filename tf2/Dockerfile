@@ -1,4 +1,4 @@
-FROM inanimate/steamcmd-play
+FROM quay.io/games_on_k8s/docker-steamcmd-server
 
 ENV GAME_NAME tf
 ENV GAME_ID 232250
